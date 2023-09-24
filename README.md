@@ -22,6 +22,10 @@ To install the project dependencies, run the following command in the terminal:
 
 `npm install`
 
+## Deploy
+
+Visit the following link to see the application deployed: https://europe-test-react-desarp.netlify.app/
+
 ---
 
 # Test React
@@ -49,3 +53,7 @@ Aquí están los pasos a seguir:
 Para instalar las dependencias del proyecto, ejecute el siguiente comando en la terminal:
 
 `npm install`
+
+## Deploy
+
+Visita el siguiente link para ver la aplicación desplegada: https://europe-test-react-desarp.netlify.app/
